@@ -18,7 +18,7 @@ The application is thoroughly tested and has implemented various error handlers 
 The link to the images posted on the application can be gotten by clicking the COPY IMAGE LINK in the modal displayed on clicking an image.
 
 PROJECT SPECIFICATIONS
-Behaviour	Input	Output
+Behaviour	Input	Outputgit pu
 Admin Authentication	On demand	Access Admin dashboard
 Display all images	Home page	Clickable links to open any images in a modal
 Display single images on click	On click	All details should be viewed
